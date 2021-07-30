@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.selenium.zoopla.test.ZooplaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-30T12:46:09" hostname="arjun-HP-Laptop-15-bs0xx" time="78.391">
+  <properties/>
+  <testcase name="view_properties_list_test" classname="com.selenium.zoopla.test.ZooplaTest" time="78.391"/>
+  <system-out><![CDATA[4500
+3792
+3683
+3300
+2925
+2817
+2275
+2250
+1950
+1750
+1675
+1672
+1650
+1495
+1495
+1410
+1400
+1375
+1250
+1250
+1050
+950
+855
+850
+795
+2 bed flat to rent in Holland Street, London SE1 - Zoopla
+020 8033 9125
+Circa London
+View agent properties 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
